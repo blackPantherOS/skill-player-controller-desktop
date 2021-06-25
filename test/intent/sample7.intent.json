@@ -1,0 +1,7 @@
+{
+  "utterance": "seek backward",
+  "intent_type": "PlayerControllDesktopSeekBwIntent",
+  "intent": {
+    "InternalLockDesktopKeyword": "playing backward"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "utterance": "media player start",
+  "intent_type": "PlayerControllDesktopPlayIntent",
+  "intent": {
+    "InternalLockDesktopKeyword": "playing"
+  }
+}

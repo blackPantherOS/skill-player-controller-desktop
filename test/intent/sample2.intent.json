@@ -1,0 +1,7 @@
+{
+  "utterance": "stop",
+  "intent_type": "PlayerControllDesktopStopIntent",
+  "intent": {
+    "InternalLockDesktopKeyword": "player"
+  }
+}

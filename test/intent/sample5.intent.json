@@ -1,0 +1,7 @@
+{
+  "utterance": "pause",
+  "intent_type": "PlayerControllDesktopPauseIntent",
+  "intent": {
+    "InternalLockDesktopKeyword": "playing"
+  }
+}

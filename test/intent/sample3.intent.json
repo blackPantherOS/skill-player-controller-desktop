@@ -1,0 +1,7 @@
+{
+  "utterance": "next",
+  "intent_type": "PlayerControllDesktopNextIntent",
+  "intent": {
+    "InternalLockDesktopKeyword": "media"
+  }
+}

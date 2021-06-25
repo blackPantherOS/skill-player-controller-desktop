@@ -1,0 +1,7 @@
+{
+  "utterance": "seek forward",
+  "intent_type": "PlayerControllDesktopSeekFwIntent",
+  "intent": {
+    "InternalLockDesktopKeyword": "playing seek"
+  }
+}
